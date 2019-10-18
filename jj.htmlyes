@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head> </head>
+<body>
+<h1> Hello World </h1>
+<table border= "2" width= "50%">
+<tr>
+	<td> A </td>
+	<td colspan ="2"> B </td>
+</tr>
+<tr>
+	<td rowspan ="2"> C </td>
+	<td> X </td>
+	<td> Y </td>
+</tr>
+<tr>
+	<td> Z </td>
+	<td>  678  </td>
+</tr>
+<tr>
+	<td> I </td>
+	<td colspan ="2"> J </td>
+</tr>
+<tr>
+	<td rowspan ="2"> K </td>
+	<td> L </td>
+	<td> M </td>
+</tr>
+<tr>
+	<td> N </td>
+	<td>    </td>
+</tr>
+</table>
+<img src = "C:\Users\channit.rom\Downloads\Telegram Desktop\IMG_6333.jpg" width = "670" height="400" title="IT E4 G19" border="0.5" usemap="#my"/>
+		<map name ="my">
+		<a href = "new1.html"/>
+</map>
+		<img src = "C:\Users\channit.rom\Downloads\Telegram Desktop\IMG_6332.JPG" width = "670" height="400" title="my classmate" border="0.5"/>
+</body>
+<html>
